@@ -761,6 +761,9 @@ p{
   .title{
     margin-top: 2vw;
   }
+.logoimg1{
+    height: 30px;
+  }
 }
 
 @media screen and (max-width: 490px) {
